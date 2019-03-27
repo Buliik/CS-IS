@@ -1,2 +1,2 @@
 # CS-IS
-School projects
+ORM implementation in C#
